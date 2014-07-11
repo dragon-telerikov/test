@@ -2,7 +2,7 @@
   "ProjectGuid": "11ba2e91-2064-4cea-b812-d1c1551e5bb0",
   "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
   "AppIdentifier": "com.telerik.download_image_button",
-  "ProjectName": "download-image-button",
+  "ProjectName": "download-image-button2",
   "IsRunnable": "true",
   "TemplateAppName": "Cordova240",
   "AndroidPermissions": [
